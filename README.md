@@ -40,4 +40,7 @@
   <a href="https://www.instagram.com/hyun._.s08/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
+  <a href="https://www.2hyundev.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4353FF?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
 </div>
