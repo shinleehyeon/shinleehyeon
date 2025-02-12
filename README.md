@@ -14,7 +14,7 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Technologies ⚒️</h2>
+<h2 align="center">Technologies</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,vite,tailwind" /><br>
@@ -24,14 +24,14 @@
 <br/>
 <hr/>
 <div align="center">
-  <h2>🍀 My Contributions 🍀</h2>
+  <h2>My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/shinleehyeon/shinleehyeon/blob/output/github-snake-dark.svg" />
   
 </div>
 <hr/>
 
-<h2 align="center">🚀 Fallow Me 🚀</h2>
+<h2 align="center">Fallow Me</h2>
  
 <div align="center"> 
   <a href="shinlee7878@gmail.com">
