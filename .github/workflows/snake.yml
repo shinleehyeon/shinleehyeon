@@ -30,7 +30,7 @@ jobs:
           github_user_name: shinleehyeon
           # GitHub 다크 모드 테마 사용
           outputs: |
-            dist/github-snake-dark.svg?color_snake=#FFE16F&color_dots=#534340,#234F1A,#9FC93C,#C5D8A4,#F4FCD9,#F05650
+            dist/github-snake-dark.svg?color_snake=#FFE4B5&color_dots=#DEB887,#90EE90,#98FB98,#E0FFE0,#F0FFF0
             
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
