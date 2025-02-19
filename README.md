@@ -14,8 +14,8 @@
 <h2 align="center">Technologies</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,vite,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,c,java,mysql,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,electron,vite,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=github,git,figma" /><br>
 </div>
 
