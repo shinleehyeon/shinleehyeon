@@ -1,26 +1,36 @@
 name: generate animation
+
 on:
+  # 매일 자정에 실행
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
   
+  # 수동 실행 가능
   workflow_dispatch:
   
+  # push할 때마다 실행
   push:
     branches:
-    - master
+      - main
+      - master
     
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
     steps:
+      - uses: actions/checkout@v3
+      
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: shinleehyeon
+          # GitHub 다크 모드 테마 사용
           outputs: |
-            dist/github-snake-dark.svg?color_snake=#FFE16F&color_dots=#534340,#234F1A,#9FC93C,#C5D8A4,#F4FCD9,#F05650
+            dist/github-snake-dark.svg?palette=github-dark
             
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
