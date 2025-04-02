@@ -5,39 +5,51 @@
 <h3 align="center">A passionate software developer from South Korea 🇰🇷</h3>
 
 <div align="center">
- 📚 I'm studying at Sunrin Internet High School
- <br/>
- 💬 I'm front-end developer currently studying
- <br/>
+  <ul style="list-style-position: inside; text-align: left; display: inline-block;">
+    📚 I'm studying at Sunrin Internet High School<br/>
+    💬 I'm front-end developer currently studying<br/>
+  </ul>
+</div>
+
 <hr/>
 
-<h2 align="center">Technologies</h2>
-<br/>
+<h2 align="center">⚡️ Technologies</h2>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,scss,vite,tailwind" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=github,git,figma" /><br>
 </div>
 
-<br/>
 <hr/>
 
 <div align="center">
-  <h2>My Contributions</h2>
+  <h2>🌱 My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shinleehyeon/shinleehyeon/output/github-snake-dark.svg" />
 </div>
 
 <hr/>
 
-<h2 align="center">Follow Me</h2>
+<h2 align="center">🎉 Awards</h2>
+
+<p align="center">
+  • 제 1회 동행 해커톤 창의재단 이사장상 (2등)<br/>
+  • AppJam 29th 미래부문 최우수상 (1등)<br/>
+  • 2024 STA+C 가작상<br/>
+  • 넥슨 청소년 프로그래밍 챌린지(NYPC) 본선진출
+</p>
+
+<hr/>
+
+<h2 align="center">📡 Follow Me</h2>
  
 <div align="center"> 
   <a href="mailto:shinlee7878@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.instagram.com/hyun._.s08/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.2hyundev.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4353FF?style=for-the-badge&logo=safari&logoColor=white" />
