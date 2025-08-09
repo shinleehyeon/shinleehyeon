@@ -51,21 +51,6 @@
   </tr>
   <tr>
     <td width="40%" valign="top">
-      <a href="https://github.com/our-enemy-is-samsung/fresio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=our-enemy-is-samsung&repo=fresio&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Fresio - 냉장고 AI 어시스턴트</strong><br>
-      냉장고에 들어가는 음식들을 인식하고 수량과 유통기한을 관리하고 레시피를 추천하는 서비스입니다.<br>
-      기존 스마트 냉장고의 가격 문제를 해결하고자 싼 가격의 하드웨어로 스마트 냉장고와 같은 기능을 하게 하였습니다.
-    </td>
-    <td>
-      한국과학창의재단 이사장상
-    </td>
-  </tr>
-  <tr>
-    <td width="40%" valign="top">
       <a href="https://github.com/ecoquest-h5/eq-app">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ecoquest-h5&repo=eq-app&theme=github_dark&hide_border=true" />
       </a>
@@ -177,8 +162,6 @@
 <h3>🌱 My Contributions</h3>
 <br>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shinleehyeon/shinleehyeon/output/github-snake-dark.svg" />
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shinleehyeon&theme=github-compact&hide_border=true)
 
 <h3>📡 Follow Me</h3>
 📧 이메일 - <a href="shinlee7878@gmail.com">shinlee7878@gmail.com</a><br>
