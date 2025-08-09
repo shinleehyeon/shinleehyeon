@@ -53,7 +53,7 @@
   <tr>
     <td width="40%" valign="top">
       <a href="https://github.com/our-enemy-is-samsung/fresio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=our-enemy-is-samsung&repo=fresio" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=our-enemy-is-samsung&repo=fresio&theme=github_dark_dimmed&hide_border=true" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -68,8 +68,7 @@
   <tr>
     <td width="40%" valign="top">
       <a href="https://github.com/ecoquest-h5/eq-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ecoquest-h5&repo=eq-app" />
-      </a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ecoquest-h5&repo=eq-app&theme=github_dark_dimmed&hide_border=true" />
     </td>
     <td width="50%" valign="top">
       <strong>EcoQuest - 환경을 위한 작은 실전 퀘스트</strong><br>
@@ -84,7 +83,7 @@
   <tr>
     <td width="40%" valign="top">
       <a href="https://github.com/maum-irang/irang-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maum-irang&repo=irang-app" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maum-irang&repo=irang-app&theme=github_dark_dimmed&hide_border=true" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -99,7 +98,7 @@
   <tr>
     <td width="40%" valign="top">
       <a href="https://github.com/uslash25/web">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uslash25&repo=web" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uslash25&repo=web&theme=github_dark_dimmed&hide_border=true" />
       </a>
     </td>
     <td width="50%" valign="top">
