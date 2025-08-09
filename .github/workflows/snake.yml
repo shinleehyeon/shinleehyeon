@@ -1,4 +1,4 @@
-name: generate animation
+name: Generate Snake Animation
 
 on:
   # 매일 자정에 실행
@@ -22,18 +22,19 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
       
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
         with:
           github_user_name: shinleehyeon
-          # GitHub 다크 모드 테마 사용
           outputs: |
-            dist/github-snake-dark.svg?color_snake=#FFE16F&color_dots=#534340,#234F1A,#9FC93C,#C5D8A4,#F4FCD9,#F05650
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
             
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
