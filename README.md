@@ -57,9 +57,9 @@
     </td>
     <td width="50%" valign="top">
       <strong>EcoQuest - 환경을 위한 작은 실전 퀘스트</strong><br>
-      환경을 위한 작은행동을 퀘스트의 형태로 만든 서비스 입니다.<br>
-      환경보호를 실천 할 수 있는 퀘스트를 클리어하면서 작은 습관을 기를 수 있습니다.
-      YOLOv8 모델과 ResNet 50 모델을 이용해 퀘스트를 자동으로 인증할 수 있습니다.
+      환경을 위한 작은행동을 퀘스트의 형태로 만든 서비스.<br>
+      환경보호를 실천 할 수 있는 퀘스트를 클리어하면서 작은 습관을 기를 수 있다.
+      YOLOv8,ResNet 50 모델을 이용해 퀘스트를 인증.
     </td>
     <td>
       없음
@@ -73,8 +73,8 @@
     </td>
     <td width="50%" valign="top">
       <strong>마음이랑 - ASD 아동 표정인식 치료 서비스</strong><br>
-      ASD 아동이 사람들의 표정을 잘 인식하고,표현할 수 있도록 치료하는 서비스입니다.<br>
-      YOLOv11 기반의 실시간 표정인식 시스템을 구현했고 지속적인 참여를 유도할 수 있는 UI/UX를 구성하였습니다.
+      ASD 아동이 사람들의 표정을 잘 인식하고,표현할 수 있도록 치료하는 서비스.<br>
+      YOLOv11 기반의 실시간 표정인식 시스템,지속적인 참여를 유도하는 UI/UX를 구성했다.
     </td>
     <td>
       없음
@@ -158,10 +158,6 @@
     </tr>
   </tbody>
 </table>
-
-<h3>🌱 My Contributions</h3>
-<br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shinleehyeon/shinleehyeon/output/github-snake-dark.svg" />
 
 <h3>📡 Follow Me</h3>
 📧 이메일 - <a href="shinlee7878@gmail.com">shinlee7878@gmail.com</a><br>
