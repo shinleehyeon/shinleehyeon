@@ -37,6 +37,16 @@
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
+<h3>🏆 Awards & Achievements</h3>
+<p>
+  • 제 1회 동행 해커톤 창의재단 이사장상 (2등)<br/>
+  • AppJam 29th 미래부문 최우수상 (1등)<br/>
+  • 제 11회 2025 선린 해커톤 은상 (2등)<br/>
+  • 2025 Uthon 우수상 (2등)<br>
+  • 2024 STA+C 가작상 (결선)<br/>
+  • 넥슨 청소년 프로그래밍 챌린지(NYPC) 본선진출<br/>
+</p>
+
 <h3>🧾 My Project</h3>
 
 <table>
@@ -98,16 +108,6 @@
     </td>
   </tr>
 </table>
-
-<h3>🏆 Awards & Achievements</h3>
-<p>
-  • 제 1회 동행 해커톤 창의재단 이사장상 (2등)<br/>
-  • AppJam 29th 미래부문 최우수상 (1등)<br/>
-  • 제 11회 2025 선린 해커톤 은상 (2등)<br/>
-  • 2025 Uthon 우수상 (2등)<br>
-  • 2024 STA+C 가작상 (결선)<br/>
-  • 넥슨 청소년 프로그래밍 챌린지(NYPC) 본선진출<br/>
-</p>
 
 <h3>📡 Follow Me</h3>
 📧 이메일 - <a href="shinlee7878@gmail.com">shinlee7878@gmail.com</a><br>
