@@ -30,8 +30,8 @@ jobs:
         with:
           github_user_name: shinleehyeon
           outputs: |
-            dist/github-snake.svg?color_snake=#4A90E2&color_dots=#F8FAFE,#C6E2FF,#7CB9E8,#1F77B4,#0D47A1
-            dist/github-snake-dark.svg?color_snake=#64B5F6&color_dots=#0D1117,#0D2636,#1565C0,#1976D2,#42A5F5&palette=github-dark
+            dist/github-snake.svg?color_snake=#7CB342&color_dots=#F0F0F0,#C6E48B,#7BC96F,#239A3B,#196127
+            dist/github-snake-dark.svg?color_snake=#7CB342&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353&palette=github-dark
             
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
