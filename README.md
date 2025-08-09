@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=35&center=true&vCenter=true&duration=4000&width=500&height=70&color=009900&width=435&lines=안녕하세요!+👋;+저는 신이현입니다" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&size=30&center=true&vCenter=true&duration=4000&width=700&height=70&color=009900&lines=끊임없는+%5B배움%5D과+%5B도전%5D으로;성장하는+개발자+신이현입니다" alt="Typing SVG" />
 </h1>
 
 <h3>💬 About Me</h3>
-끊임없는 [배움]과 [도전]으로 성장하는 개발자 신이현입니다<br>
+끊임없는 [배움]과 [도전]으로 성장하는 개발자 신이현입니다.<br>
 사용자가 진정으로 필요로 하는 서비스를 창의적이고 혁신적인 방법으로 구현하고자 노력하고 있습니다.<br>
 항상 실질적인 가치와 도움을 줄 수 있는 결과물을 만들어내기 위해 열정을 쏟고 있습니다.
 
