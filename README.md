@@ -1,6 +1,8 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&size=35&center=true&vCenter=true&duration=4000&width=435&height=70&color=009900&lines=Hi!+👋;I'm+LeeHyeon" alt="Typing SVG" />
-</h1>
+<div align="center">
+	<a href="https://github.com/jwkwon0817" target="_blank">
+		<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=LeeHyeon%20Shin&fontSize=90" />
+	</a>
+</div>
 
 <h3>💬 About Me</h3>
 끊임없는 [배움]과 [도전]으로 성장하는 개발자 신이현입니다.<br>
@@ -98,69 +100,18 @@
 </table>
 
 <h3>🏆 Awards & Achievements</h3>
-<table style="border-collapse: collapse; width: 100%; background: linear-gradient(135deg, #0d1117 0%, #1e3a5f 100%); border-radius: 15px; overflow: hidden; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
-  <thead>
-    <tr style="background: rgba(88, 166, 255, 0.1); backdrop-filter: blur(10px);">
-      <th style="padding: 20px; color: #58a6ff; font-size: 16px; font-weight: 600; text-align: center; border-bottom: 2px solid #30363d; width: 15%;">Rank</th>
-      <th style="padding: 20px; color: #58a6ff; font-size: 16px; font-weight: 600; text-align: left; border-bottom: 2px solid #30363d; width: 50%;">Competition</th>
-      <th style="padding: 20px; color: #58a6ff; font-size: 16px; font-weight: 600; text-align: left; border-bottom: 2px solid #30363d; width: 25%;">Organizer</th>
-      <th style="padding: 20px; color: #58a6ff; font-size: 16px; font-weight: 600; text-align: center; border-bottom: 2px solid #30363d; width: 10%;">Year</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border-bottom: 1px solid #30363d;">
-      <td style="padding: 20px; text-align: center;">
-        <span style="background: linear-gradient(45deg, #ffd700, #ffed4e); color: #0d1117; padding: 8px 12px; border-radius: 20px; font-weight: 600; font-size: 14px;">🥇 1등</span>
-      </td>
-      <td style="padding: 20px; color: #c9d1d9; font-size: 16px; font-weight: 500;">제 29회 AppJam 미래부문 최우수상</td>
-      <td style="padding: 20px; color: #8b949e; font-size: 14px;">SK 플래닛</td>
-      <td style="padding: 20px; color: #8b949e; text-align: center; font-size: 14px;">2025</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #30363d;">
-      <td style="padding: 20px; text-align: center;">
-        <span style="background: linear-gradient(45deg, #c0c0c0, #e8e8e8); color: #0d1117; padding: 8px 12px; border-radius: 20px; font-weight: 600; font-size: 14px;">🥈 2등</span>
-      </td>
-      <td style="padding: 20px; color: #c9d1d9; font-size: 16px; font-weight: 500;">제 1회 SW 동행 해커톤 창의재단 이사장상</td>
-      <td style="padding: 20px; color: #8b949e; font-size: 14px;">과학기술정보통신부</td>
-      <td style="padding: 20px; color: #8b949e; text-align: center; font-size: 14px;">2024</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #30363d;">
-      <td style="padding: 20px; text-align: center;">
-        <span style="background: linear-gradient(45deg, #c0c0c0, #e8e8e8); color: #0d1117; padding: 8px 12px; border-radius: 20px; font-weight: 600; font-size: 14px;">🥈 2등</span>
-      </td>
-      <td style="padding: 20px; color: #c9d1d9; font-size: 16px; font-weight: 500;">제 11회 2025 선린 해커톤 은상</td>
-      <td style="padding: 20px; color: #8b949e; font-size: 14px;">선린인터넷고등학교</td>
-      <td style="padding: 20px; color: #8b949e; text-align: center; font-size: 14px;">2025</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #30363d;">
-      <td style="padding: 20px; text-align: center;">
-        <span style="background: linear-gradient(45deg, #c0c0c0, #e8e8e8); color: #0d1117; padding: 8px 12px; border-radius: 20px; font-weight: 600; font-size: 14px;">🥈 2등</span>
-      </td>
-      <td style="padding: 20px; color: #c9d1d9; font-size: 16px; font-weight: 500;">2025 U/THON 우수상</td>
-      <td style="padding: 20px; color: #8b949e; font-size: 14px;">USLASH</td>
-      <td style="padding: 20px; color: #8b949e; text-align: center; font-size: 14px;">2025</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #30363d;">
-      <td style="padding: 20px; text-align: center;">
-        <span style="background: linear-gradient(45deg, #cd7f32, #daa520); color: #0d1117; padding: 8px 12px; border-radius: 20px; font-weight: 600; font-size: 14px;">🥉 결선</span>
-      </td>
-      <td style="padding: 20px; color: #c9d1d9; font-size: 16px; font-weight: 500;">2024 STA+C 가작상</td>
-      <td style="padding: 20px; color: #8b949e; font-size: 14px;">과학기술정보통신부</td>
-      <td style="padding: 20px; color: #8b949e; text-align: center; font-size: 14px;">2024</td>
-    </tr>
-    <tr>
-      <td style="padding: 20px; text-align: center;">
-        <span style="background: linear-gradient(45deg, #58a6ff, #79c0ff); color: #0d1117; padding: 8px 12px; border-radius: 20px; font-weight: 600; font-size: 14px;">🎯 본선</span>
-      </td>
-      <td style="padding: 20px; color: #c9d1d9; font-size: 16px; font-weight: 500;">넥슨 청소년 프로그래밍 챌린지(NYPC) 본선진출</td>
-      <td style="padding: 20px; color: #8b949e; font-size: 14px;">넥슨코리아</td>
-      <td style="padding: 20px; color: #8b949e; text-align: center; font-size: 14px;">2021</td>
-    </tr>
-  </tbody>
-</table>
+<p>
+  • 제 1회 동행 해커톤 창의재단 이사장상 (2등)<br/>
+  • AppJam 29th 미래부문 최우수상 (1등)<br/>
+  • 제 11회 2025 선린 해커톤 은상 (2등)<br/>
+  • 2025 Uthon 우수상 (2등)<br>
+  • 2024 STA+C 가작상 (결선)<br/>
+  • 넥슨 청소년 프로그래밍 챌린지(NYPC) 본선진출<br/>
+</p>
 
 <h3>📡 Follow Me</h3>
 📧 이메일 - <a href="shinlee7878@gmail.com">shinlee7878@gmail.com</a><br>
 📊 포트폴리오 - <a href="https://www.2hyundev.com/">portfolio</a><br>
 💼 링크드인 - <a href="https://www.linkedin.com/in/leehyeon-shin-787065350/">shinleehyeon</a><br>
 🌐 인스타그램 - <a href="https://www.instagram.com/hyun._.s08/">hyun._.s08</a>
+
