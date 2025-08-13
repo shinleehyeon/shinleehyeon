@@ -52,6 +52,21 @@
 
 <table>
   <tr>
+    <td width="40%" valign="top">
+      <a href="https://github.com/uslash25/web">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uslash25&repo=web&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Fusion M - 자연어를 통한 MCP 생성, 배포 서비스</strong><br>
+      자연어를 통해 내가 원하는 MCP를 자동을 생성하고, 배포까지 해주는 서비스입니다.<br>
+      MCP 생성은 FastAPI 백엔드에서 하여 NestJS 백엔드를 거친후 Next.js 웹으로 전달되는 형태입니다.
+    </td>
+    <td>
+      Uthon 해커톤 2등
+    </td>
+  </tr>
+  <tr>
     <td>
       레포지토리
     </td>
@@ -91,21 +106,6 @@
     </td>
     <td>
       없음
-    </td>
-  </tr>
-  <tr>
-    <td width="40%" valign="top">
-      <a href="https://github.com/uslash25/web">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uslash25&repo=web&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Fusion M - 자연어를 통한 MCP 생성, 배포 서비스</strong><br>
-      자연어를 통해 내가 원하는 MCP를 자동을 생성하고, 배포까지 해주는 서비스입니다.<br>
-      MCP 생성은 FastAPI 백엔드에서 하여 NestJS 백엔드를 거친후 Next.js 웹으로 전달되는 형태입니다.
-    </td>
-    <td>
-      Uthon 해커톤 2등
     </td>
   </tr>
 </table>
