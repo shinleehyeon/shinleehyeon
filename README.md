@@ -110,10 +110,6 @@
   </tr>
 </table>
 
-<h3>🌱 My Contributions</h3>
-<br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shinleehyeon/shinleehyeon/output/github-snake-dark.svg" />
-
 <h3>📡 Follow Me</h3>
 📧 이메일 - <a href="shinlee7878@gmail.com">shinlee7878@gmail.com</a><br>
 📊 포트폴리오 - <a href="https://www.2hyundev.com/">portfolio</a><br>
