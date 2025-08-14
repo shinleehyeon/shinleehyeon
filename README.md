@@ -63,7 +63,7 @@
       MCP 생성은 FastAPI 백엔드에서 하여 NestJS 백엔드를 거친후 Next.js 웹으로 전달되는 형태입니다.
     </td>
     <td>
-      Uthon 해커톤 2등
+      U/THON 해커톤 2등
     </td>
   </tr>
   <tr>
