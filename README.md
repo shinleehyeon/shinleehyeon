@@ -51,6 +51,12 @@
 <h3>🧾 My Project</h3>
 
 <table>
+  <td>
+    레포지토리
+  </td>
+  <td>
+    제목 / 소개
+  </td>
   <tr>
     <td width="40%" valign="top">
       <a href="https://github.com/uslash25/web">
@@ -67,12 +73,6 @@
     </td>
   </tr>
   <tr>
-    <td>
-      레포지토리
-    </td>
-    <td>
-      제목 / 소개
-    </td>
     <td>
       수상
     </td>
