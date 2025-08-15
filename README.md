@@ -57,6 +57,9 @@
   <td>
     제목 / 소개
   </td>
+  <td>
+    수상
+  </td>
   <tr>
     <td width="40%" valign="top">
       <a href="https://github.com/uslash25/web">
@@ -73,9 +76,6 @@
     </td>
   </tr>
   <tr>
-    <td>
-      수상
-    </td>
   </tr>
   <tr>
     <td width="40%" valign="top">
