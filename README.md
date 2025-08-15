@@ -64,8 +64,8 @@
     </td>
     <td width="50%" valign="top">
       <strong>Fusion M - 자연어를 통한 MCP 생성, 배포 서비스</strong><br>
-      자연어를 통해 내가 원하는 MCP를 자동을 생성하고, 배포까지 해주는 서비스입니다.<br>
-      MCP 생성은 FastAPI 백엔드에서 하여 NestJS 백엔드를 거친후 Next.js 웹으로 전달되는 형태입니다.
+      자연어를 통해 내가 원하는 MCP를 자동을 생성하고, 배포까지 해주는 서비스이다.<br>
+      MCP 생성은 FastAPI 백엔드에서 하여 NestJS 백엔드를 거친후 Next.js 웹으로 전달되는 형태이다.
     </td>
     <td>
       U/THON 해커톤 2등
@@ -81,9 +81,9 @@
     </td>
     <td width="50%" valign="top">
       <strong>EcoQuest - 환경을 위한 작은 실전 퀘스트</strong><br>
-      환경을 위한 작은행동을 퀘스트의 형태로 만든 서비스.<br>
+      환경을 위한 작은행동을 퀘스트의 형태로 만든 서비스이다.<br>
       환경보호를 실천 할 수 있는 퀘스트를 클리어하면서 작은 습관을 기를 수 있다.
-      YOLOv8,ResNet 50 모델을 이용해 퀘스트를 인증.
+      YOLOv8,ResNet 50 모델을 이용해 퀘스트를 인증한다.
     </td>
     <td>
       없음
@@ -97,7 +97,7 @@
     </td>
     <td width="50%" valign="top">
       <strong>마음이랑 - ASD 아동 표정인식 치료 서비스</strong><br>
-      ASD 아동이 사람들의 표정을 잘 인식하고,표현할 수 있도록 치료하는 서비스.<br>
+      ASD 아동이 사람들의 표정을 잘 인식하고,표현할 수 있도록 치료하는 서비스이다.<br>
       YOLOv11 기반의 실시간 표정인식 시스템,지속적인 참여를 유도하는 UI/UX를 구성했다.
     </td>
     <td>
