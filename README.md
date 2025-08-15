@@ -111,8 +111,15 @@
 </table>
 
 <h3>📡 Follow Me</h3>
-📧 이메일 - <a href="shinlee7878@gmail.com">shinlee7878@gmail.com</a><br>
-📊 포트폴리오 - <a href="https://www.2hyundev.com/">portfolio</a><br>
-💼 링크드인 - <a href="https://www.linkedin.com/in/leehyeon-shin-787065350/">shinleehyeon</a><br>
-🌐 인스타그램 - <a href="https://www.instagram.com/hyun._.s08/">hyun._.s08</a>
-
+<a href="mailto:shinlee7878@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+<a href="https://www.instagram.com/hyun._.s08/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/leehyeon-shin-787065350/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.2hyundev.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-4353FF?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
