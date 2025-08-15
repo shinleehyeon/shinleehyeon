@@ -48,7 +48,7 @@
   • 넥슨 청소년 프로그래밍 챌린지(NYPC) 본선 진출<br/>
 </p>
 
-<h3>🧾 My Project</h3>
+<h3>💻 My Project</h3>
 
 <table>
   <td>
