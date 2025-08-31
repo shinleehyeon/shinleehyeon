@@ -52,6 +52,23 @@
   </td>
   <tr>
     <td width="40%" valign="top">
+      <a href="https://github.com/our-enemy-is-samsung/fresio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=our-enemy-is-samsung&repo=fresio&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Fresio - AI 냉장고 어시스턴트</strong><br>
+      값싼 가격으로 냉장고 관리를 제공하는 AI 솔루션이다.<br>
+      YOLOv8 + ResNet 50 기반 실시간 재료 인식, 개인화 레시피 추천을 통해<br>
+      월 식재료 폐기비용을 절약하고 1인 가구의 식생활을 바꿔준다.<br>
+      React Native BLE PLX + WiFi Direct로 IoT 연결을 구현했다.
+    </td>
+    <td>
+      한국과학창의재단 이사장상 (2등)
+    </td>
+  <tr>
+  <tr>
+    <td width="40%" valign="top">
       <a href="https://github.com/uslash25/web">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=uslash25&repo=web&theme=github_dark&hide_border=true" />
       </a>
@@ -67,23 +84,6 @@
   </tr>
   <tr>
   </tr>
-  <tr>
-    <td width="40%" valign="top">
-      <a href="https://github.com/ecoquest-h5/eq-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ecoquest-h5&repo=eq-app&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>EcoQuest - 환경을 위한 작은 실전 퀘스트</strong><br>
-      환경을 위한 작은행동을 퀘스트의 형태로 만든 서비스이다.<br>
-      환경보호를 실천 할 수 있는 퀘스트를 클리어하면서 작은 습관을 기를 수 있다.
-      YOLOv8,ResNet 50 모델을 이용해 퀘스트를 인증한다.
-    </td>
-    <td>
-      없음
-    </td>
-  </tr>
-  <tr>
     <td width="40%" valign="top">
       <a href="https://github.com/maum-irang/irang-app">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=maum-irang&repo=irang-app&theme=github_dark&hide_border=true" />
