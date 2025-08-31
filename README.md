@@ -52,8 +52,8 @@
   </td>
   <tr>
     <td width="40%" valign="top">
-      <a href="https://github.com/our-enemy-is-samsung/fresio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=our-enemy-is-samsung&repo=fresio&theme=github_dark&hide_border=true" />
+      <a href="https://github.com/shinleehyeon/fresio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shinleehyeon&repo=fresio&theme=github_dark&hide_border=true" />
       </a>
     </td>
     <td width="50%" valign="top">
