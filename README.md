@@ -32,7 +32,7 @@
 
 <h3>🏆 Awards & Achievements</h3>
 <p>
-  • 2025 Daangn Builder's Camp 해커톤 우승 (1등)<br/>
+  • 2025 당근 Builder's Camp 해커톤 우승 (1등)<br/>
   • 제 1회 동행 해커톤 한국과학창의재단(KOSAC) 이사장상 (2등)<br/>
   • 제 29회 AppJam 미래산업 부문 최우수상 (1등)<br/>
   • 제 11회 2025 선린 해커톤 은상 (2등)<br/>
