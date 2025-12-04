@@ -47,65 +47,6 @@
 
 <h3>💻 My Project</h3>
 
-<table>
-  <td>
-    레포지토리
-  </td>
-  <td>
-    제목 / 소개
-  </td>
-  <td>
-    수상
-  </td>
-  <tr>
-    <td width="40%" valign="top">
-      <a href="https://github.com/shinleehyeon/fresio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shinleehyeon&repo=fresio&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Fresio - AI 냉장고 어시스턴트</strong><br>
-      값싼 가격으로 냉장고 관리를 제공하는 AI 솔루션이다.<br>
-      YOLOv8 + ResNet 50 기반 실시간 재료 인식, 개인화 레시피 추천을 통해<br>
-      월 식재료 폐기비용을 절약하고 1인 가구의 식생활을 바꿔준다.<br>
-      React Native BLE PLX + WiFi Direct로 IoT 연결을 구현했다.
-    </td>
-    <td>
-      한국과학창의재단 이사장상 (2등)
-    </td>
-  <tr>
-  <tr>
-    <td width="40%" valign="top">
-      <a href="https://github.com/uslash25/web">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uslash25&repo=web&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Fusion M - 자연어를 통한 MCP 생성, 배포 서비스</strong><br>
-      자연어를 통해 내가 원하는 MCP를 자동을 생성하고, 배포까지 해주는 서비스이다.<br>
-      MCP 생성은 FastAPI 백엔드에서 하여 NestJS 백엔드를 거친후 Next.js 웹으로 전달되는 형태이다.
-    </td>
-    <td>
-      U/THON 해커톤 우수상 (2등)
-    </td>
-  </tr>
-  <tr>
-  </tr>
-    <td width="40%" valign="top">
-      <a href="https://github.com/maum-irang/irang-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maum-irang&repo=irang-app&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>마음이랑 - ASD 아동 표정인식 치료 서비스</strong><br>
-      ASD 아동이 사람들의 표정을 잘 인식하고,표현할 수 있도록 치료하는 서비스이다.<br>
-      YOLOv11 기반의 실시간 표정인식 시스템,지속적인 참여를 유도하는 UI/UX를 구성했다.
-    </td>
-    <td>
-      없음
-    </td>
-  </tr>
-</table>
 
 <h3>📡 Follow Me</h3>
 <a href="mailto:shinlee7878@gmail.com">
