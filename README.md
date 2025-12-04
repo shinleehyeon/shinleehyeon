@@ -29,7 +29,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <!-- Infrastructure -->
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=https://cdn.worldvectorlogo.com/logos/aws-2.svg&logoColor=white)
 
 <h3>🏆 Awards & Achievements</h3>
@@ -46,7 +46,6 @@
 </p>
 
 <h3>💻 My Project</h3>
-
 
 <h3>📡 Follow Me</h3>
 <a href="mailto:shinlee7878@gmail.com">
