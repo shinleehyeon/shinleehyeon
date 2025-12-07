@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://github.com/shinleehyeon" target="_blank">
-		<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=LeeHyeon%20Shin&fontSize=70" />
+		<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=leehyeon%20shin&fontSize=70" />
 	</a>
 </div>
 
