@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://github.com/shinleehyeon" target="_blank">
-		<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Welcome👋&fontSize=80" />
+		<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Welcome🫵&fontSize=80" />
 	</a>
 </div>
 
