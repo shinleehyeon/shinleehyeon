@@ -1,8 +1,10 @@
 <div align="center">
 	<a href="https://github.com/shinleehyeon" target="_blank">
-		<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Leehyeon%20Shin&fontSize=80" />
+		<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Welcome👋&fontSize=80" />
 	</a>
 </div>
+
+## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25> 안녕하세요 개발자 신이현 입니다
 
 <h3>⚡️ Technologies</h3>
 
