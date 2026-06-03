@@ -26,9 +26,15 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=https://cdn.worldvectorlogo.com/logos/aws-2.svg&logoColor=white)
 
+<h3>💼 Experience</h3>
+<p>
+  • [2026] (주)당근마켓 - Local Jobs 프론트엔드 개발</br>
+  • [2025] 인피니티텐서(주) - 풀스택 개발
+</p>
+
 <h3>🏆 Awards</h3>
 <p>
-  • [2025] 당근 Builder's Camp 해커톤 우승 (1등)<br/>
+  • [2025] Daangn Builder's Camp 해커톤 우승 (1등)<br/>
   • [2025] 디지털 콘텐츠 개발 대회 생활 부문 금상 (1등)<br/>
   • [2025] 제 11회 선린 해커톤 은상 (2등)<br/>
   • [2025] U/THON 우수상 (2등)<br/>
@@ -36,12 +42,6 @@
   • [2024] 동행 해커톤 KOSAC 이사장상 (2등)<br/>
   • [2024] AppJam 미래산업 부문 최우수상 (1등)<br/>
   • [2024] STA+C 가작상 (결선)<br/>
-</p>
-
-<h3>💼 Experience</h3>
-<p>
-  • [2026] (주)당근마켓 - 당근알바팀 프론트엔드 개발</br>
-  • [2025] 인피니티텐서(주) - 풀스택 개발
 </p>
 
 <h3>📡 Follow Me</h3>
