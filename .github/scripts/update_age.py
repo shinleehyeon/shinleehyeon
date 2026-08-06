@@ -32,9 +32,9 @@ def main() -> None:
     age, days_left, next_bday = calc(today)
 
     if days_left == 0:
-        line = f"> ⏰ 오늘부터 만 **{age}**세!"
+        line = f"> 🎂 오늘부터 만 **{age}**세!"
     else:
-        line = f"> ⏰ 만 **{age}**세 · +1살까지 **D-{days_left}**"
+        line = f"> 🎂 만 **{age}**세 · 만 **{age + 1}**세까지 **D-{days_left}**"
 
     block = f"<!--START_SECTION:age-->\n{line}\n<!--END_SECTION:age-->"
     text = README.read_text(encoding="utf-8")
