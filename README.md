@@ -7,7 +7,7 @@
 ## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25> 안녕하세요 개발자 신이현 입니다.
 
 <!--START_SECTION:age-->
-> 🎂 만 **18**세 · 만 **19**세까지 **D-148**
+> 🎂 만 **18**세 · 만 **19**세까지 **D-147**
 <!--END_SECTION:age-->
 
 <h3>⚡️ Technologies</h3>
