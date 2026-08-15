@@ -1,6 +1,6 @@
 ## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25> 안녕하세요 프론트엔드 개발자 신이현 입니다
 
-<img width="110" align="right" alt="Plankton" style="margin-left: 30px" src="assets/plankton.png" />
+<img width="150" align="right" alt="Plankton" style="margin-left: 30px" src="assets/plankton.png" />
 
 끊임없는 도전으로 성장하는 개발자 신이현입니다.<br/>
 잘 동작하는 코드를 넘어, 사용자의 문제를 데이터로 읽고 해결책을 설계하는 개발을 지향합니다.<br/>
