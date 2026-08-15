@@ -1,14 +1,10 @@
-<div align="center">
-	<a href="https://github.com/shinleehyeon" target="_blank">
-		<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Welcome✌︎&fontSize=80" />
-	</a>
-</div>
+## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25> 안녕하세요 프론트엔드 개발자 신이현 입니다
 
-## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25> 안녕하세요 개발자 신이현 입니다.
+<img width="70" align="right" alt="Plankton" style="margin-left: 30px" src="assets/plankton.png" />
 
-<!--START_SECTION:age-->
-> 🎂 만 **18**세 · 만 **19**세까지 **D-141**
-<!--END_SECTION:age-->
+끊임없는 도전으로 성장하는 개발자 신이현입니다.<br/>
+잘 동작하는 코드를 넘어, 사용자의 문제를 데이터로 읽고 해결책을 설계하는 개발을 지향합니다.<br/>
+기획부터 백엔드·인프라까지 서비스 전반을 경험하며 실제 사용자의 문제를 해결하는 개발을 고민해 왔습니다.
 
 <h3>⚡️ Technologies</h3>
 
