@@ -49,7 +49,7 @@
 </p>
 
 <div align="center">
-  <img width="120" alt="Jellyfish" src="assets/jellyfish.png" />
+  <img width="60" alt="Jellyfish" src="assets/jellyfish.png" />
 </div>
 
 <h3>📡 Follow Me</h3>
