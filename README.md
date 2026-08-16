@@ -1,6 +1,8 @@
 ## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25> 안녕하세요 프로덕트 엔지니어 신이현 입니다
 
-<img width="170" align="right" alt="Plankton" style="margin-left: 30px" src="assets/plankton.png" />
+<img height="120" align="right" alt="Plankton" src="assets/plankton.png" />
+<img height="120" align="right" alt="Patrick" src="assets/patrick.png" />
+<img height="120" align="right" alt="Sandy" src="assets/sandy.png" />
 
 끊임없는 도전으로 성장하는 개발자 신이현입니다.<br/>
 잘 동작하는 코드를 넘어, 사용자의 문제를 데이터로 읽고 해결책을 설계하는 개발을 지향합니다.<br/>
@@ -26,7 +28,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&style=flat)
 
-<img width="90" align="right" alt="Jellyfish" style="margin-left: 30px" src="assets/jellyfish.png" />
 
 <h3>🏆 Awards</h3>
 <p>
@@ -48,10 +49,6 @@
   • [2025] 인피니티텐서(주) - 풀스택 개발
 </p>
 
-<div align="center">
-  <img width="60" alt="Jellyfish" src="assets/jellyfish.png" />
-</div>
-
 <h3>📡 Follow Me</h3>
 <a href="mailto:shinlee7878@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -62,7 +59,3 @@
 <a href="https://www.linkedin.com/in/leehyeon-shin-787065350/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<div align="center">
-  <img width="140" alt="Jellyfish" src="assets/jellyfish.png" />
-</div>
