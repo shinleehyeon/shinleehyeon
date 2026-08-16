@@ -1,6 +1,6 @@
 ## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25> 안녕하세요 프로덕트 엔지니어 신이현 입니다
 
-<img height="160" align="right" alt="Plankton" src="assets/plankton.png" />
+<img height="180" align="right" alt="Plankton" src="assets/plankton.png" />
 
 끊임없는 도전으로 성장하는 개발자 신이현입니다.<br/>
 잘 동작하는 코드를 넘어, 사용자의 문제를 데이터로 읽고 해결책을 설계하는 개발을 지향합니다.<br/>
