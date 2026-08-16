@@ -1,4 +1,4 @@
-## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25> 안녕하세요 프론트엔드 개발자 신이현 입니다
+## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25> 안녕하세요 프로덕트 엔지니어 신이현 입니다
 
 <img width="170" align="right" alt="Plankton" style="margin-left: 30px" src="assets/plankton.png" />
 
