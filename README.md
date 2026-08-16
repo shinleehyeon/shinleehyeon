@@ -7,7 +7,7 @@
 기획부터 백엔드·인프라까지 서비스 전반을 경험하며 실제 사용자의 문제를 해결하는 개발을 고민해 왔습니다.
 
 
-<h3>⚡️ Technologies</h3>
+<h3>🖥️ Technologies</h3>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black&style=flat)
 ![ReactNative](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black&style=flat)
