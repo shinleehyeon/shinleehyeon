@@ -48,6 +48,9 @@
   • [2025] 인피니티텐서(주) - 풀스택 개발
 </p>
 
+<div align="center">
+  <img width="120" alt="Jellyfish" src="assets/jellyfish.png" />
+</div>
 
 <h3>📡 Follow Me</h3>
 <a href="mailto:shinlee7878@gmail.com">
