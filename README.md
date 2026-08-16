@@ -6,9 +6,8 @@
 잘 동작하는 코드를 넘어, 사용자의 문제를 데이터로 읽고 해결책을 설계하는 개발을 지향합니다.<br/>
 기획부터 백엔드·인프라까지 서비스 전반을 경험하며 실제 사용자의 문제를 해결하는 개발을 고민해 왔습니다.
 
-<br clear="right"/>
 
-<h3><img src="assets/jellyfish.png" width="26" align="top" /> ⚡️ Technologies</h3>
+<h3>⚡️ Technologies</h3>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black&style=flat)
 ![ReactNative](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black&style=flat)
@@ -42,9 +41,6 @@
   • [2024] STA+C 가작상 (결선)<br/>
 </p>
 
-<br clear="right"/>
-
-<img width="70" align="left" alt="Jellyfish" style="margin-right: 30px" src="assets/jellyfish.png" />
 
 <h3>💼 Experience</h3>
 <p>
@@ -52,9 +48,8 @@
   • [2025] 인피니티텐서(주) - 풀스택 개발
 </p>
 
-<br clear="left"/>
 
-<h3><img src="assets/jellyfish.png" width="26" align="top" /> 📡 Follow Me</h3>
+<h3>📡 Follow Me</h3>
 <a href="mailto:shinlee7878@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
