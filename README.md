@@ -2,7 +2,7 @@
 
 <img height="180" align="right" alt="Plankton" src="assets/plankton.webp" />
 
-끊임없는 도전으로 성장하는 개발자 신이현입니다.<br/>
+만드는 것보다, 왜 만드는지를 먼저 묻습니다.<br/>
 잘 동작하는 코드를 넘어, 사용자의 문제를 데이터로 읽고 해결책을 설계하는 개발을 지향합니다.<br/>
 기획부터 백엔드·인프라까지 서비스 전반을 경험하며 실제 사용자의 문제를 해결하는 개발을 고민해 왔습니다.
 
@@ -11,11 +11,12 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black&style=flat)
 ![ReactNative](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black&style=flat)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Nextdotjs&logoColor=white&style=flat)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TYPESCRIPT&logoColor=white&style=flat)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white&style=flat)
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&style=flat)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&style=flat)
 
