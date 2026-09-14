@@ -9,23 +9,10 @@
 
 <h3>🖥️ Technologies</h3>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&style=flat)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&style=flat)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black&style=flat)
-![ReactNative](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black&style=flat)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Nextdotjs&logoColor=white&style=flat)
-![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TYPESCRIPT&logoColor=white&style=flat)
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&style=flat)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&style=flat)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&style=flat)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&style=flat)
+<img src="https://skillicons.dev/icons?i=aws,docker,gcp" height="55"/><br/>
+<img src="https://skillicons.dev/icons?i=react,swift,nextjs,ts" height="55"/><br/>
+<img src="https://skillicons.dev/icons?i=nestjs,fastapi,prisma,mysql" height="55"/><br/>
+<img src="https://skillicons.dev/icons?i=py,java" height="55"/>
 
 
 <h3>🏆 Awards</h3>
