@@ -8,17 +8,18 @@
 
 
 <h3>🖥️ Technologies</h3>
+
 <p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" height="30"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="30"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud" height="30"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black" alt="React Native"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" alt="Swift"/> <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=Nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=TYPESCRIPT&logoColor=white" alt="Typescript"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" alt="React" height="30"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black" alt="React Native" height="30"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" alt="Swift" height="30"/> <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=Nextdotjs&logoColor=white" alt="Next.js" height="30"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=TYPESCRIPT&logoColor=white" alt="Typescript" height="30"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" alt="Prisma"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" height="30"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" height="30"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" alt="Prisma" height="30"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java" height="30"/>
 </p>
 
 
