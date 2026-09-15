@@ -9,31 +9,40 @@
 
 <h3>🖥️ Technologies</h3>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,gcp" height="55"/><br/>
-<img src="https://skillicons.dev/icons?i=react,swift,nextjs,ts" height="55"/><br/>
-<img src="https://skillicons.dev/icons?i=nestjs,fastapi,prisma,mysql" height="55"/><br/>
-<img src="https://skillicons.dev/icons?i=py,java" height="55"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" height="22" alt="AWS"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="22" alt="Docker"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" height="22" alt="Google Cloud"/>
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" height="22" alt="React"/>
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black" height="22" alt="React Native"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" height="22" alt="Swift"/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=Nextdotjs&logoColor=white" height="22" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=TYPESCRIPT&logoColor=white" height="22" alt="Typescript"/>
+<br/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" height="22" alt="NestJS"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="22" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" height="22" alt="Prisma"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="22" alt="MySQL"/>
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" height="22" alt="Java"/>
 
 
 <h3>🏆 Awards</h3>
-<p>
-  • [2026] 제 12회 선린 해커톤 금상 (1등)<br/>
-  • [2025] Daangn Builder's Camp 해커톤 우승 (1등)<br/>
-  • [2025] 디지털 콘텐츠 개발 대회 생활 부문 금상 (1등)<br/>
-  • [2025] 제 11회 선린 해커톤 은상 (2등)<br/>
-  • [2025] U/THON 우수상 (2등)<br/>
-  • [2025] 제 15회 e-ICON 세계대회 본선 진출<br/>
-  • [2024] 동행 해커톤 KOSAC 이사장상 (2등)<br/>
-  • [2024] AppJam 미래산업 부문 최우수상 (1등)<br/>
-  • [2024] STA+C 가작상 (결선)<br/>
-</p>
+
+<img src="assets/icons/daangn.png" width="28" height="28" align="absmiddle" alt=""/>&#160;Daangn Builder's Camp 해커톤 우승 (1등)<br/>
+<img src="assets/icons/korea-gov.png" width="28" height="28" align="absmiddle" alt=""/>&#160;동행 해커톤 KOSAC 이사장상 (2등)<br/>
+<img src="assets/icons/sk.png" width="28" height="28" align="absmiddle" alt=""/>&#160;AppJam 미래산업 부문 최우수상 (1등)<br/>
+<img src="assets/icons/uslash-light.png#gh-light-mode-only" width="28" height="28" align="absmiddle" alt=""/><img src="assets/icons/uslash-dark.png#gh-dark-mode-only" width="28" height="28" align="absmiddle" alt=""/>&#160;U/THON 우수상 (2등)<br/>
+<img src="assets/icons/sunrin.png" width="28" height="28" align="absmiddle" alt=""/>&#160;제 11회 선린 해커톤 은상 (2등)<br/>
+<img src="assets/icons/sunrin.png" width="28" height="28" align="absmiddle" alt=""/>&#160;디지털 콘텐츠 개발 대회 생활 부문 금상 (1등)<br/>
+<img src="assets/icons/sunrin.png" width="28" height="28" align="absmiddle" alt=""/>&#160;제 12회 선린 해커톤 금상 (1등)
 
 
 <h3>💼 Experience</h3>
-<p>
-  • [2026] (주)당근마켓 - Local Jobs 프론트엔드 개발<br/>
-  • [2025] 인피니티텐서(주) - 풀스택 개발
-</p>
+
+<img src="assets/icons/daangn.png" width="28" height="28" align="absmiddle" alt=""/>&#160;(주)당근마켓 - Local Jobs 프론트엔드 개발<br/>
+<img src="assets/icons/infinity-tensor.svg" width="28" height="28" align="absmiddle" alt=""/>&#160;인피니티텐서(주) - 풀스택 개발
 
 <h3>📡 Follow Me</h3>
 <a href="mailto:shinlee7878@gmail.com">
