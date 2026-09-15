@@ -7,25 +7,20 @@
 그 맥락에 맞는 해결책을 설계해 나가는 과정이라고 생각합니다.
 
 
+<br clear="all"/>
 <h3>🖥️ Technologies</h3>
-
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" height="22" alt="AWS"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="22" alt="Docker"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" height="22" alt="Google Cloud"/>
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" height="22" alt="React"/>
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black" height="22" alt="React Native"/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" height="22" alt="Swift"/>
-<img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=Nextdotjs&logoColor=white" height="22" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=TYPESCRIPT&logoColor=white" height="22" alt="Typescript"/>
-<br/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" height="22" alt="NestJS"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="22" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" height="22" alt="Prisma"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="22" alt="MySQL"/>
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" height="22" alt="Java"/>
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" height="22" alt="AWS"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="22" alt="Docker"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" height="22" alt="Google Cloud"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" height="22" alt="React"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black" height="22" alt="React Native"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" height="22" alt="Swift"/> <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=Nextdotjs&logoColor=white" height="22" alt="Next.js"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=TYPESCRIPT&logoColor=white" height="22" alt="Typescript"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" height="22" alt="NestJS"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="22" alt="FastAPI"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" height="22" alt="Prisma"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="22" alt="MySQL"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22" alt="Python"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" height="22" alt="Java"/>
+</p>
 
 
 <h3>🏆 Awards</h3>
