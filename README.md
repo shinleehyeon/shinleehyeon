@@ -10,7 +10,7 @@
 <h3>🖥️ Technologies</h3>
 
 <p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" style="height:23px;"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="height:23px;"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud" style="height:23px;"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" style="height:23px;"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="height:23px;"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud" style="height:23px;"/> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white" alt="Terraform" style="height:23px;"/>
 </p>
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" alt="React" style="height:23px;"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black" alt="React Native" style="height:23px;"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" alt="Swift" style="height:23px;"/> <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=Nextdotjs&logoColor=white" alt="Next.js" style="height:23px;"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=TYPESCRIPT&logoColor=white" alt="Typescript" style="height:23px;"/>
