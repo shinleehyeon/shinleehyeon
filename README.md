@@ -7,7 +7,7 @@
 그 맥락에 맞는 해결책을 설계해 나가는 과정이라고 생각합니다.
 
 
-<h3><img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/> 🖥️ Technologies <img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/></h3>
+<h3><img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/> Technologies <img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/></h3>
 
 <p>
   <b>Infra</b><br/>
@@ -42,7 +42,7 @@
 </p>
 
 
-<h3><img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/> 🏆 Awards <img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/></h3>
+<h3><img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/> Awards <img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/></h3>
 
 <img src="assets/icons/daangn.png" width="28" height="28" align="absmiddle" alt=""/>&#160;Daangn Builder's Camp 해커톤 우승 (1등)<br/>
 <img src="assets/icons/korea-gov.png" width="28" height="28" align="absmiddle" alt=""/>&#160;동행 해커톤 KOSAC 이사장상 (2등)<br/>
@@ -53,16 +53,16 @@
 <img src="assets/icons/sunrin.png" width="28" height="28" align="absmiddle" alt=""/>&#160;제 12회 선린 해커톤 금상 (1등)
 
 
-<h3><img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/> 💼 Experience <img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/></h3>
+<h3><img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/>Experience <img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/></h3>
 
 <img src="assets/icons/daangn.png" width="28" height="28" align="absmiddle" alt=""/>&#160;(주)당근마켓 - Local Jobs 프론트엔드 개발<br/>
 <img src="assets/icons/infinity-tensor.svg" width="28" height="28" align="absmiddle" alt=""/>&#160;인피니티텐서(주) - 풀스택 개발
 
 ------------
 
-<p align="center" style="margin-top:32px;">
-<a href="https://www.linkedin.com/in/leehyeon-shin-787065350/"><img src="assets/linkedin.svg" width="20" alt="LinkedIn" style="margin:0 8px;" /></a>
-<a href="https://hyeon.im"><img src="assets/website.svg" width="20" alt="Website" style="margin:0 8px;" /></a>
-<a href="https://www.instagram.com/hyun._.s08/"><img src="assets/instagram.svg" width="20" alt="Instagram" style="margin:0 8px;" /></a>
-<a href="mailto:shinlee7878@gmail.com"><img src="assets/gmail.svg" width="20" alt="Gmail" style="margin:0 8px;" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/leehyeon-shin-787065350/"><img src="assets/linkedin.svg" width="20" alt="LinkedIn" /></a>&emsp;
+<a href="https://hyeon.im"><img src="assets/website.svg" width="20" alt="Website" /></a>&emsp;
+<a href="https://www.instagram.com/hyun._.s08/"><img src="assets/instagram.svg" width="20" alt="Instagram" /></a>&emsp;
+<a href="mailto:shinlee7878@gmail.com"><img src="assets/gmail.svg" width="20" alt="Gmail" /></a>
 </p>
