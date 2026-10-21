@@ -7,10 +7,10 @@
 그 맥락에 맞는 해결책을 설계해 나가는 과정이라고 생각합니다.
 
 
-<h3>🖥️ Technologies</h3>
+<h3>──────── 🖥️ Technologies ────────</h3>
 
-<h4>Infra</h4>
 <p>
+  <b>Infra</b><br/>
   <img src="assets/icons/aws-badge.svg" alt="AWS" style="height:23px;"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="height:23px;"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud" style="height:23px;"/>
@@ -18,23 +18,23 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" style="height:23px;"/>
 </p>
 
-<h4>Frontend</h4>
 <p>
+  <b>Frontend</b><br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" alt="React" style="height:23px;"/>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black" alt="React Native" style="height:23px;"/>
   <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=Nextdotjs&logoColor=white" alt="Next.js" style="height:23px;"/>
 </p>
 
-<h4>Backend & DB</h4>
 <p>
+  <b>Backend & DB</b><br/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" style="height:23px;"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" style="height:23px;"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" alt="Prisma" style="height:23px;"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="height:23px;"/>
 </p>
 
-<h4>Languages</h4>
 <p>
+  <b>Languages</b><br/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=TYPESCRIPT&logoColor=white" alt="Typescript" style="height:23px;"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="height:23px;"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java" style="height:23px;"/>
@@ -42,7 +42,7 @@
 </p>
 
 
-<h3>🏆 Awards</h3>
+<h3>──────── 🏆 Awards ────────</h3>
 
 <img src="assets/icons/daangn.png" width="28" height="28" align="absmiddle" alt=""/>&#160;Daangn Builder's Camp 해커톤 우승 (1등)<br/>
 <img src="assets/icons/korea-gov.png" width="28" height="28" align="absmiddle" alt=""/>&#160;동행 해커톤 KOSAC 이사장상 (2등)<br/>
@@ -53,18 +53,16 @@
 <img src="assets/icons/sunrin.png" width="28" height="28" align="absmiddle" alt=""/>&#160;제 12회 선린 해커톤 금상 (1등)
 
 
-<h3>💼 Experience</h3>
+<h3>──────── 💼 Experience ────────</h3>
 
 <img src="assets/icons/daangn.png" width="28" height="28" align="absmiddle" alt=""/>&#160;(주)당근마켓 - Local Jobs 프론트엔드 개발<br/>
 <img src="assets/icons/infinity-tensor.svg" width="28" height="28" align="absmiddle" alt=""/>&#160;인피니티텐서(주) - 풀스택 개발
 
-<h3>📡 Follow Me</h3>
-<a href="mailto:shinlee7878@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
-<a href="https://www.instagram.com/hyun._.s08/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/leehyeon-shin-787065350/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+------------
+
+<p align="center" style="margin-top:32px;">
+<a href="https://www.linkedin.com/in/leehyeon-shin-787065350/"><img src="assets/linkedin.svg" width="20" alt="LinkedIn" style="margin:0 8px;" /></a>
+<a href="https://hyeon.im"><img src="assets/website.svg" width="20" alt="Website" style="margin:0 8px;" /></a>
+<a href="https://www.instagram.com/hyun._.s08/"><img src="assets/instagram.svg" width="20" alt="Instagram" style="margin:0 8px;" /></a>
+<a href="mailto:shinlee7878@gmail.com"><img src="assets/gmail.svg" width="20" alt="Gmail" style="margin:0 8px;" /></a>
+</p>
