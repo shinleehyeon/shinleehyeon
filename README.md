@@ -28,9 +28,9 @@
 <p>
   <b>Backend & DB</b><br/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" style="height:23px;"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" style="height:23px;"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" alt="Prisma" style="height:23px;"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="height:23px;"/>
+  <img src="assets/icons/redshift-badge.svg" alt="Redshift" style="height:23px;"/>
 </p>
 
 <p>
