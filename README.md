@@ -54,7 +54,7 @@
 
 <h3><img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/>Experience <img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/></h3>
 
-<img src="assets/icons/daangn.png" width="28" height="28" align="absmiddle" alt=""/>&#160;(주)당근마켓 - Local Jobs 프론트엔드 개발<br/>
+<img src="assets/icons/daangn.png" width="28" height="28" align="absmiddle" alt=""/>&#160;(주)당근마켓 - 당근알바팀 프론트엔드 개발<br/>
 <img src="assets/icons/infinity-tensor.svg" width="28" height="28" align="absmiddle" alt=""/>&#160;인피니티텐서(주) - 풀스택 개발
 
 ------------
