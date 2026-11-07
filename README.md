@@ -62,6 +62,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/leehyeon-shin-787065350/"><img src="assets/linkedin.svg" width="20" alt="LinkedIn" /></a>&emsp;
 <a href="https://hyeon.im"><img src="assets/website.svg" width="20" alt="Website" /></a>&emsp;
-<a href="https://www.instagram.com/hyun._.s08/"><img src="assets/instagram.svg" width="20" alt="Instagram" /></a>&emsp;
+<a href="https://www.instagram.com/dlgus._t/"><img src="assets/instagram.svg" width="20" alt="Instagram" /></a>&emsp;
 <a href="mailto:shinlee7878@gmail.com"><img src="assets/gmail.svg" width="20" alt="Gmail" /></a>
 </p>
