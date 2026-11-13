@@ -43,6 +43,7 @@
 
 <h3><img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/> Awards <img src="assets/line.svg" width="120" height="1" align="absmiddle" alt=""/></h3>
 
+<img src="assets/icons/sesac.png" width="28" height="28" align="absmiddle" alt=""/>&#160;SESAC 해커톤 서울경제진흥원 대표이사 장려상<br/>
 <img src="assets/icons/daangn.png" width="28" height="28" align="absmiddle" alt=""/>&#160;Daangn Builder's Camp 해커톤 우승 (1등)<br/>
 <img src="assets/icons/korea-gov.png" width="28" height="28" align="absmiddle" alt=""/>&#160;동행 해커톤 KOSAC 이사장상 (2등)<br/>
 <img src="assets/icons/sk.png" width="28" height="28" align="absmiddle" alt=""/>&#160;AppJam 미래산업 부문 최우수상 (1등)<br/>
